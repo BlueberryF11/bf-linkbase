@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Blueberry Fruitsy",
+    "url": "https://blueberryfruitsy.com",
+    "group": "Official",
+    "kind": "Website"
+  },
+  {
+    "title": "About",
+    "url": "https://about.blueberryfruitsy.com",
+    "group": "Official",
+    "kind": "Website"
+  },
+  {
+    "title": "Songs",
+    "url": "https://songs.blueberryfruitsy.com",
+    "group": "Music",
+    "kind": "Music"
+  },
+  {
+    "title": "Streaming links",
+    "url": "https://stream.blueberryfruitsy.com",
+    "group": "Music",
+    "kind": "Music"
+  },
+  {
+    "title": "MusicBrainz",
+    "url": "https://musicbrainz.org/artist/483c01d1-1cb8-4d1a-8407-c1fcd1af0f25",
+    "group": "Music",
+    "kind": "Database"
+  },
+  {
+    "title": "Apple Music",
+    "url": "https://music.apple.com/us/artist/blueberry-fruitsy/1741215592",
+    "group": "Music",
+    "kind": "Streaming"
+  },
+  {
+    "title": "Spotify",
+    "url": "https://open.spotify.com/artist/40Nsz2HbxrAxfnhB1xQLjI",
+    "group": "Music",
+    "kind": "Streaming"
+  },
+  {
+    "title": "Files",
+    "url": "https://files.blueberryfruitsy.com",
+    "group": "Infrastructure",
+    "kind": "Service"
+  },
+  {
+    "title": "Artwork gallery",
+    "url": "https://gallery.blueberryfruitsy.com",
+    "group": "Projects",
+    "kind": "Website"
+  },
+  {
+    "title": "Globlish",
+    "url": "https://globlish.blueberryfruitsy.com",
+    "group": "Projects",
+    "kind": "Project"
+  },
+  {
+    "title": "Image server",
+    "url": "https://imageserver.blueberryfruitsy.com",
+    "group": "Infrastructure",
+    "kind": "Service"
+  },
+  {
+    "title": "Media center",
+    "url": "https://media.blueberryfruitsy.com",
+    "group": "Infrastructure",
+    "kind": "Service"
+  },
+  {
+    "title": "Shop",
+    "url": "https://shop.blueberryfruitsy.com",
+    "group": "Commerce",
+    "kind": "Shop"
+  },
+  {
+    "title": "BF XP Shop",
+    "url": "https://bbryftsy.store",
+    "group": "Commerce",
+    "kind": "Shop"
+  },
+  {
+    "title": "BF MySpace",
+    "url": "https://bbryftsy.site",
+    "group": "Projects",
+    "kind": "Website"
+  },
+  {
+    "title": "Bot",
+    "url": "https://bot.blueberryfruitsy.com",
+    "group": "Infrastructure",
+    "kind": "Service"
+  },
+  {
+    "title": "Minecraft server",
+    "url": "https://mc.blueberryfruitsy.com",
+    "group": "Projects",
+    "kind": "Game server"
+  },
+  {
+    "title": "Discord",
+    "url": "https://discord.blueberryfruitsy.com",
+    "group": "Community",
+    "kind": "Community"
+  },
+  {
+    "title": "GitHub",
+    "url": "https://github.com/BlueberryF11",
+    "group": "Development",
+    "kind": "Code"
+  },
+  {
+    "title": "BF Linkbase repository",
+    "url": "https://github.com/BlueberryF11/bf-linkbase",
+    "group": "Development",
+    "kind": "Code"
+  },
+  {
+    "title": "Support",
+    "url": "https://support.blueberryfruitsy.com",
+    "group": "Infrastructure",
+    "kind": "Email"
+  }
+]
